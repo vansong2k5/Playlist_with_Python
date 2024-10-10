@@ -1,2 +1,2 @@
-# Playlist_with_Python
-Playlist plays music written in python language
+# 🎵Playlist_with_Python
+>Playlist plays music written in python language
